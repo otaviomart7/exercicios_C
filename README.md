@@ -1,1 +1,1 @@
-# exercicios_C
+# exs_C_sala05
